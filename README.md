@@ -1,6 +1,8 @@
 # Full Stack Google Drive Clone
 https://www.youtube.com/watch?v=lie0cr3wESQ&t=318s
 
+## 4/6/2025
+1:41:34 Layout, Nav, Sidebar
 
 ## 4/1/2025
 33:48 reusable auth form
